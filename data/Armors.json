@@ -1,0 +1,23 @@
+[
+null,
+{"id":1,"atypeId":1,"description":"누구도 이렇게 전형적으로 생긴 것이 마법사의 것이 아니라고\n생각할 수 없고, 실제로 마법사의 것이다.","etypeId":2,"traits":[],"iconIndex":1291,"name":"마법사의 모자","note":"","params":[0,0,0,0,0,0,0,5],"price":50},
+{"id":2,"atypeId":3,"description":"장식 하나 없다. 이 정도면 그냥 줄이라고 봐도 되지 않나.","etypeId":7,"traits":[],"iconIndex":1415,"name":"단조로운 목걸이","note":"","params":[0,0,0,0,0,0,0,3],"price":25},
+{"id":3,"atypeId":1,"description":"입으면 정말로 반투명해지지는 않지만,\n주변 적들이 사용자를 감지하는 것을 어렵게 만든다.","etypeId":3,"traits":[{"code":64,"dataId":0,"value":1}],"iconIndex":139,"name":"반투명 망토","note":"","params":[0,0,0,0,0,0,0,0],"price":750},
+{"id":4,"atypeId":3,"description":"편자는 행운을 상징한다는 말을 들었다.","etypeId":7,"traits":[],"iconIndex":1754,"name":"낡은 편자","note":"","params":[0,0,0,0,0,0,0,10],"price":100},
+{"id":5,"atypeId":3,"description":"안전하지만 달리기는 어렵다.","etypeId":6,"traits":[{"code":43,"dataId":11,"value":1}],"iconIndex":141,"name":"무거운 신발","note":"","params":[0,0,0,50,0,0,0,0],"price":250},
+{"id":6,"atypeId":1,"description":"평소에는 그냥 목에 걸고만 있는다.","etypeId":2,"traits":[],"iconIndex":1328,"name":"고글","note":"","params":[0,0,0,0,0,0,5,0],"price":20},
+{"id":7,"atypeId":2,"description":"손가락 부분은 구멍으로 뚫려 있다.\n이런 걸 뭐라고 부르더라?","etypeId":4,"traits":[],"iconIndex":106,"name":"가죽 장갑","note":"","params":[0,0,10,0,0,0,0,0],"price":100},
+{"id":8,"atypeId":3,"description":"금이 살짝 가 있지만 나쁘지는 않을 것 같다.","etypeId":2,"traits":[{"code":22,"dataId":3,"value":0.8}],"iconIndex":1323,"name":"헬멧","note":"","params":[0,5,0,15,0,0,0,0],"price":300},
+{"id":9,"atypeId":3,"description":"우습다. 그게 전부다.","etypeId":2,"traits":[{"code":13,"dataId":12,"value":0.1}],"iconIndex":1309,"name":"광대 모자","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":10,"atypeId":3,"description":"이걸로 독에 중독될 위험은 없다.","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0},{"code":14,"dataId":4,"value":1}],"iconIndex":1286,"name":"방독면","note":"","params":[0,0,0,0,0,0,0,0],"price":100},
+{"id":11,"atypeId":0,"description":"너덜너덜하다. 입어도 크게 달라지는 것은 없다.","etypeId":3,"traits":[],"iconIndex":1347,"name":"누더기 상의","note":"","params":[0,0,0,0,0,0,0,0],"price":10},
+{"id":12,"atypeId":0,"description":"너덜너덜하다. 입어도 크게 달라지는 것은 없다.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":1362,"name":"누더기 하의","note":"","params":[0,0,0,0,0,0,0,0],"price":10},
+{"id":13,"atypeId":3,"description":"반짝반짝하고 큰 보석이 박혀 있다.","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0},{"code":64,"dataId":4,"value":1}],"iconIndex":1397,"name":"값진 반지","note":"","params":[0,0,0,0,0,0,0,0],"price":1500},
+{"id":14,"atypeId":3,"description":"완벽하게 평범하다.","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":152,"name":"평범한 자켓","note":"","params":[10,0,0,0,0,0,0,0],"price":75},
+{"id":15,"atypeId":3,"description":"달리기 편하다. 좋은 재질로 되어 있으나 조금 낡다.","etypeId":6,"traits":[{"code":22,"dataId":1,"value":0.1}],"iconIndex":1372,"name":"가벼운 신발","note":"","params":[0,0,0,0,0,0,10,0],"price":200},
+{"id":16,"atypeId":3,"description":"푹신푹신하고 따뜻하다.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":1358,"name":"털 망토","note":"","params":[20,10,0,0,0,0,0,0],"price":300},
+{"id":17,"atypeId":3,"description":"달고 다닐 수 있다.\n딸랑거리는 소리가 어두컴컴한 지하 속에서 울린다.","etypeId":7,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":205,"name":"작은 방울","note":"","params":[0,0,0,0,10,10,0,0],"price":200},
+{"id":18,"atypeId":3,"description":"걸고 있으면 서서히 회복되는 기분이 든다.","etypeId":7,"traits":[{"code":22,"dataId":1,"value":0},{"code":23,"dataId":2,"value":0.1}],"iconIndex":1412,"name":"로켓 목걸이","note":"","params":[0,0,0,0,0,0,0,0],"price":200},
+{"id":19,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":20,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
+]
